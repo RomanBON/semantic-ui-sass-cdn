@@ -1,0 +1,80 @@
+////Font
+$body-font-size: 14px !default;
+$import-google-fonts: true !default;
+$font-url: 'https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin,latin-ext' !default;
+$font-name: 'Lato' !default;
+$font-family: $font-name, 'Helvetica Neue', Arial, Helvetica, sans-serif !default;
+
+//// Colors
+// Body
+$body-bg-color: #fff !default;
+$body-font-color:rgba(0, 0, 0, 0.87) !default;
+
+//Font
+$font-color: rgba(0, 0, 0, 0.87) !default;
+$secondary-font: rgba(0, 0, 0, 0.4) !default;
+
+//links Variables
+$a-font-color: #4183c4 !default;
+$a-hover-font-color: #1e70bf !default;
+
+//Primary
+$primary-color: #2185d0 !default;
+$primary-color--hover: #1678c2 !default;
+$primary-color--focus: #0d71bb !default;
+$primary-color--active: #1a69a4 !default;
+$primary-color-active: #1279c6 !default;
+$primary-color-active--active: #1279c6 !default;
+
+//Secondary
+$secondary-color: #1b1c1d !default;
+$secondary-color--hover: #27292a !default;
+$secondary-color--focus: #2e3032 !default;
+$secondary-color--active: #343637 !default;
+$secondary-color-active: #27292a !default;
+$secondary-color-active--active: #27292a !default;
+
+//Default
+$default-color: #e0e1e2 !default;
+$default-font-color: rgba(0, 0, 0, 0.6) !default;
+$default-color--active: #babbbc !default;
+$default-font-color--active: rgba(0, 0, 0, 0.9) !default;
+$default-color--hover: #cacbcd !default;
+$default-font-color--hover: rgba(0, 0, 0, 0.8) !default;
+$default-color--focus: #cacbcd !default;
+$default-font-color--focus: rgba(0, 0, 0, 0.8) !default;
+$default-active-color: #c0c1c2 !default;
+$default-active-font-color: rgba(0, 0, 0, 0.95) !default;
+$default-active-color--active: #c0c1c2 !default;
+$default-active-color--hover: #c0c1c2 !default;
+$default-active-font-color--hover: rgba(0, 0, 0, 0.95) !default;
+$default-active-color--focus: #babbbc !default;
+$default-active-font-color--focus: rgba(0, 0, 0, 0.9) !default;
+
+//Basic
+$red: #db2828 !default;
+$orange: #f2711c !default;
+$yellow: #fbbd08 !default;
+$olive: #b5cc18 !default;
+$green: #21ba45 !default;
+$teal: #00b5ad !default;
+$blue: #2185d0 !default;
+$violet: #6435c9 !default;
+$purple: #a333c8 !default;
+$pink: #e03997 !default;
+$brown: #a5673f !default;
+$grey: #767676 !default;
+$white: #fff !default;
+$inverted-label: rgba(255, 255, 255, 0.9) !default;
+$inverted-red: #ff695e !default;
+$inverted-orange: #ff851b !default;
+$inverted-yellow: #ffe21f !default;
+$inverted-olive: #d9e778 !default;
+$inverted-green: #2ecc40 !default;
+$inverted-teal: #6dffff !default;
+$inverted-blue: #54c8ff !default;
+$inverted-violet: #a291fb !default;
+$inverted-purple: #dc73ff !default;
+$inverted-pink: #ff8edf !default;
+$inverted-brown: #d67c1c !default;
+$inverted-grey: #dcddde !default;
